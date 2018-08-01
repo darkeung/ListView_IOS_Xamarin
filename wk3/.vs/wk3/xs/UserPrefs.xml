@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D7C31DDB-BF42-4793-8131-25177D2E7B00}|Default">
+  <MonoDevelop.Ide.ItemProperties.wk3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3DA570F1-E8BC-4014-9F5C-3E3728C650B1">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.wk3>
+  <MonoDevelop.Ide.Workbench ActiveDocument="wk3/ViewController.cs">
+    <Files>
+      <File FileName="wk3/Main.cs" Line="13" Column="10" />
+      <File FileName="wk3/Main.storyboard" />
+      <File FileName="wk3/LaunchScreen.storyboard" />
+      <File FileName="wk3/SessionsViewController.cs" Line="36" Column="1" />
+      <File FileName="wk3/TableViewSource.cs" Line="41" Column="1" />
+      <File FileName="wk3/SessionData.cs" Line="28" Column="46" />
+      <File FileName="wk3/ViewController.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

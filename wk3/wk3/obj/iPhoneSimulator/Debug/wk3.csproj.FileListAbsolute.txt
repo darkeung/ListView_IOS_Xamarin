@@ -1,0 +1,12 @@
+/Users/darkeung/Projects/wk3/wk3/bin/iPhoneSimulator/Debug/wk3.exe
+/Users/darkeung/Projects/wk3/wk3/bin/iPhoneSimulator/Debug/wk3.pdb
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/actool/_PartialAppManifest.items
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/coremlc/_PartialAppManifest.items
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.4/optimized/
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/wk3.csprojResolveAssemblyReference.cache
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/wk3.csproj.CoreCompileInputs.cache
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/wk3.exe
+/Users/darkeung/Projects/wk3/wk3/obj/iPhoneSimulator/Debug/wk3.pdb
